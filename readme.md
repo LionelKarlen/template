@@ -1,15 +1,15 @@
-# Project Title
+# <title>
 > Oneliner on what it does
 
 ![Demo screenshot](./docs/assets/screenshot1.png)
 
 # About
-Paragraph version of what it does
+<!-- Paragraph of what it does. What are the major features? What does it solve? -->
 
 # Getting started
-How do I install? keep this short
+<!-- How do I install? Keep this as short as possible. -->
 
-how do I use it at a glance?
+<!-- How do I use it at a glance? What is the minimum I need to know to get it running? -->
 
 For a more detailed overview, please take a look at the [manual](./docs/manual.md).
 
@@ -20,4 +20,4 @@ If you are interested in contributing, please fork the repo and open a pull requ
 Please take a look at this repo's issues, and the [roadmap](./docs/roadmap.md) file.
 
 # Acknowledgements
-who was involved? what tool significantly helped?
+<!-- Who was involved? What tool significantly helped? Where did I get information/inspiration/...? -->
