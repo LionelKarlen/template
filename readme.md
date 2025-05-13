@@ -15,8 +15,7 @@ how do I use it at a glance?
 If you are interested in contributing, please fork the repo and open a pull request with your feature or fix.
 
 # Known issues/Roadmap
-- [ ] stuff goes here
+Please take a look at this repo's issues, and the [roadmap](./docs/roadmap.md) file.
 
 # Acknowledgements
 who was involved? what tool significantly helped?
-
